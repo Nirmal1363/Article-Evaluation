@@ -2,18 +2,18 @@
 
 ## Overview
 
-This project focuses on evaluating articles using a Python script and an input Excel file. The project consists of two main files:
+This project focuses on evaluating articles using a Python script from an input Excel file. The project consists of two main files:
 
-1. `Output Article Evaluation.xlsx` - This Excel file contains the input data for article evaluation.
-2. `AE(py).py` - This Python script processes the input data and performs the necessary evaluations.
+1. `Output Article Evaluation.xlsx` - This Excel file contains the output data for article evaluation.
+2. `CodeAE.py` - This Python script processes the input data and performs the necessary evaluations.
 
 ## Files
 
 ### Output Article Evaluation.xlsx
 
-This file includes the input data necessary for the article evaluation process. Ensure this file is correctly formatted and placed in the root directory of the project.
+This file includes has the output from the article evaluation process. 
 
-### AE(py).py
+### CodeAE.py
 
 This Python script reads the input data from the Excel file, performs evaluations, and generates the output. The script includes necessary functions to process and analyze the data effectively.
 
